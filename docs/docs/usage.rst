@@ -47,6 +47,9 @@ Kate:
   <https://projects.kde.org/projects/kde/applications/kate/repository/entry/addons/kate/pate/src/plugins/python_autocomplete_jedi.py?rev=KDE%2F4.13>`__,
   you have to enable it, though.
 
+Atom:
+- Atom version 0.189+ 
+ From package manager install auto-complete-plus_ and auto-complete-plus-python-jedi_ packages.
 
 .. _other-software:
 
@@ -86,3 +89,6 @@ Using a custom ``$HOME/.pythonrc.py``
 .. _wdb: https://github.com/Kozea/wdb
 .. _TextMate: https://github.com/lawrenceakka/python-jedi.tmbundle
 .. _kate: http://kate-editor.org/
++.. _Atom : https://github.com/atom/atom
++.. _auto-complete-plus : https://github.com/atom-community/autocomplete-plus
++.. _auto-complete-plus-python-jedi : https://github.com/tinloaf/autocomplete-plus-python-jedi
