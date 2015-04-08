@@ -89,6 +89,6 @@ Using a custom ``$HOME/.pythonrc.py``
 .. _wdb: https://github.com/Kozea/wdb
 .. _TextMate: https://github.com/lawrenceakka/python-jedi.tmbundle
 .. _kate: http://kate-editor.org/
-+.. _Atom : https://github.com/atom/atom
-+.. _auto-complete-plus : https://github.com/atom-community/autocomplete-plus
-+.. _auto-complete-plus-python-jedi : https://github.com/tinloaf/autocomplete-plus-python-jedi
+.. _Atom : https://github.com/atom/atom
+.. _auto-complete-plus : https://github.com/atom-community/autocomplete-plus
+.. _auto-complete-plus-python-jedi : https://github.com/tinloaf/autocomplete-plus-python-jedi
