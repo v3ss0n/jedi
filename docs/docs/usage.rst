@@ -48,8 +48,7 @@ Kate:
   you have to enable it, though.
 
 Atom:
-- Atom version 0.189+ 
- From package manager install auto-complete-plus_ and auto-complete-plus-python-jedi_ packages.
+- Atom version 0.189+ , install auto-complete-plus_ and auto-complete-plus-python-jedi_ packages from package manager.
 
 .. _other-software:
 
